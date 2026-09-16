@@ -1,0 +1,6 @@
+{
+  "name": "EdTech Platform Foundation",
+  "description": "Production-oriented cross-platform architecture, modular domain schema, Prisma models, RBAC engine, and Phase 1 foundation for the EdTech platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
